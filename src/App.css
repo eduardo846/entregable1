@@ -32,3 +32,10 @@
 .button--right button {
   border-radius: 100%;
 }
+
+@media (max-width: 667px) {
+  .App {
+    display: flex;
+   margin: 1rem;
+  }
+}
