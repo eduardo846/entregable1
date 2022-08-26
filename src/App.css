@@ -1,36 +1,34 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-.App{
-    background-color: whitesmoke;
-    border: solid 1px;
-    margin-left: 30rem;
-    margin-right: 30rem;
-    box-shadow: 10px 5px 5px black;
+.App {
+  background-color: whitesmoke;
+  border: solid 1px;
+  margin-left: 30rem;
+  margin-right: 30rem;
+  box-shadow: 10px 5px 5px black;
 }
-.sentence{
-    justify-content: center;
-    text-align: center;
-    margin: 2rem;
+.sentence {
+  justify-content: center;
+  text-align: center;
+  margin: 2rem;
 }
-.sentence--text{
-    font-size: 24px;
-    padding-bottom: 2rem;
-
+.sentence--text {
+  font-size: 24px;
+  padding-bottom: 2rem;
 }
-.fa-quote-left{
-    font-size: 70px;
+.fa-quote-left {
+  font-size: 70px;
 }
-.sentence--author{
-    text-align: right;
-    padding-bottom: 2rem;
+.sentence--author {
+  text-align: right;
+  padding-bottom: 2rem;
 }
-.button--right{
-    text-align: right;
-
+.button--right {
+  text-align: right;
 }
-.button--right button{
-    border-radius: 100%;
+.button--right button {
+  border-radius: 100%;
 }
